@@ -1,10 +1,13 @@
-import List from "./List";
 
+import MyComponent from "./MyComponent"
 
 
 
 function App() {
-  return(<List/>);
+ return(<>
+ <MyComponent></MyComponent>
+ </>)
+
 }
 
 export default App
