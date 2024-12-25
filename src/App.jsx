@@ -1,12 +1,9 @@
 
-import Mycomponent from "./Mycomponent_v1"
-
+import ToDoList from "./ToDoList"
 
 
 function App() {
- return(<>
-<Mycomponent></Mycomponent>
- </>)
+return(<ToDoList></ToDoList>);
 
 }
 
