@@ -1,5 +1,5 @@
 
-import Mycomponent from "./MyComponent"
+import Mycomponent from "./Mycomponent_v1"
 
 
 
